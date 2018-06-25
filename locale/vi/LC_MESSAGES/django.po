@@ -2,7 +2,7 @@
 # Copyright (C) 2017 Mirumee Software
 # This file is distributed under the same license as the Saleor package.
 # Mirumee Software <hello@mirumee.com>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -286,7 +286,7 @@ msgstr "Số lượng"
 
 #: saleor/cart/forms.py:34
 msgctxt "Add to cart form error"
-msgid "Sorry. This product is currently not available."
+msgid "Xin lỗi. Hiện tại sản phẩm này chưa bán."
 msgstr ""
 
 #: saleor/cart/forms.py:37
@@ -1421,7 +1421,7 @@ msgstr ""
 
 #: templates/cart/index.html:36
 msgctxt "Cart table header"
-msgid "Price"
+msgid "Giá"
 msgstr ""
 
 #: templates/cart/index.html:81
@@ -1431,7 +1431,7 @@ msgstr ""
 
 #: templates/cart/index.html:88 templates/cart_dropdown.html:62
 msgctxt "Empty cart message"
-msgid "There are no products in your shopping cart."
+msgid "Không có sản phẩm nào trong giỏ hàng của bạn."
 msgstr ""
 
 #: templates/cart/index.html:89 templates/cart_dropdown.html:67
